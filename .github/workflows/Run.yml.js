@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: TᗩᗰIᗰ  🅰︎🅷︎🅰︎🅼︎🅴︎🅳︎ 
+      - name: TᗩᗰIᗰ-🅰︎🅷︎🅰︎🅼︎🅴︎🅳︎ 
         run: npm start
