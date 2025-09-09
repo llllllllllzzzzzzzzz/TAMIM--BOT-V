@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: IMRAN-BOT
+      - name: TᗩᗰIᗰ  🅰︎🅷︎🅰︎🅼︎🅴︎🅳︎ 
         run: npm start
